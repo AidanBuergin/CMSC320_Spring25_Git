@@ -3,3 +3,8 @@ Q1: Why might we consider using Git?
 Answer: Git provides an easy-to-use source control system that not only serves
 a great way to move code files from local machines to a cloud and vice versa, but
 also allows for sharing code between potential team members during a group project. 
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Almost any field on Earth. Examples include healthcare, biopharm, finance, any industrial field.
+It is especially useful to employ data science practices in larger corporate settings. 
